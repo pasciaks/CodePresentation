@@ -19,6 +19,7 @@ public class MethodOverridingExample {
 		public void makeSound() {
 			System.out.println("Cat - Meow");
 		}
+
 	}
 
 	public static void main(String[] args) {
