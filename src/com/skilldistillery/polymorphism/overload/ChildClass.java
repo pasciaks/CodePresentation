@@ -1,4 +1,4 @@
-package com.skilldistillery.polymorphism.override;
+package com.skilldistillery.polymorphism.overload;
 class ParentClass {
 	protected int parentValue;
 

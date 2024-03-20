@@ -1,4 +1,4 @@
-package com.skilldistillery.polymorphism.override;
+package com.skilldistillery.polymorphism.extra;
 
 public class Weed implements Plant {
 

@@ -1,4 +1,4 @@
-package com.skilldistillery.polymorphism.override;
+package com.skilldistillery.polymorphism.extra;
 
 public interface Plant extends LivingThing {
 
